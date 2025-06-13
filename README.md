@@ -13,6 +13,20 @@ This project is a **machine learning-based phishing URL detection system**. It u
 - Deployable via command line or web API
 
 ---
+.
+├── dataset_phishing.csv
+├── balanced_url_dataset.csv
+├── rf_model.pkl
+├── rf_model_tfidf.pkl
+├── lr_model.pkl
+├── voting_classifier.pkl
+├── tfidf_vectorizer.pkl
+├── scaler.pkl
+├── scaler_domain_features.pkl
+├── expected_features.pkl
+├── predict_url.py
+├── preprocessing_and_training.py
+└── README.md
 
 ## 🧪 Sample Prediction
 
